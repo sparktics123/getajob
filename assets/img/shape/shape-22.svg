@@ -2,7 +2,7 @@
 <g filter="url(#filter0_b_2801_5219)">
 <circle cx="111" cy="111" r="111" fill="url(#paint0_linear_2801_5219)"/>
 </g>
-<circle cx="111" cy="111" r="61" fill="#E8112B"/>
+<circle cx="111" cy="111" r="61" fill="#6152D9"/>
 <path d="M101.787 191.054L103.102 204.699L99.5848 204.031L99.0043 194.555L98.9454 194.544L94.8692 203.134L91.6666 202.525L91.0469 193.043L90.9879 193.031L87.0493 201.647L83.8663 201.042L90.1164 188.835L93.712 189.518L94.2866 198.382L94.3456 198.393L98.2507 190.381L101.787 191.054Z" fill="white"/>
 <path d="M70.9228 180.902L70.4988 183.697L75.1776 186.101L77.2027 184.128L80.1915 185.663L69.6597 195.048L66.0305 193.184L67.5249 179.157L70.9228 180.902ZM73.6406 187.605L70.1715 185.823L69.2653 191.833L69.3009 191.851L73.6406 187.605Z" fill="white"/>
 <path d="M59.871 173.318L53.014 181.375L55.8622 183.799L54.1901 185.764L46.0111 178.803L47.6832 176.838L50.5162 179.249L57.3731 171.192L59.871 173.318Z" fill="white"/>
@@ -35,8 +35,8 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2801_5219" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear_2801_5219" x1="0" y1="0" x2="222" y2="222" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E8112B" stop-opacity="0.3"/>
-<stop offset="1" stop-color="#E8112B" stop-opacity="0.1"/>
+<stop stop-color="#6152D9" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#6152D9" stop-opacity="0.1"/>
 </linearGradient>
 </defs>
 </svg>
