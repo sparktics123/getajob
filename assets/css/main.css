@@ -512,7 +512,8 @@ label {
 .logo-wrap {
   position: relative;
   z-index: 1;
-  margin-top: -62px;
+  /* margin-top: -62px; */
+  margin-top: 26px;
 }
 @media (min-width: 1400px) and (max-width: 1700px) {
   .logo-wrap {
@@ -545,7 +546,7 @@ label {
   left: -240px;
   top: -51px;
   right: -30px;
-  bottom: -46px;
+  bottom: -2px;
   background: #6152D9;
   z-index: -1;
 }
@@ -576,9 +577,9 @@ label {
     display: none;
   }
 }
-.logo-wrap a {
+/* .logo-wrap a {
   display: inline-block;
-}
+} */
 .logo-wrap img {
   width: 100%;
   /* max-width: 157px; */
@@ -11505,7 +11506,7 @@ label {
 }
 .sticky-header-section .logo-wrap:before {
   /* top: -20px; */
-  bottom: -25px;
+  bottom: -21px;
 }
 @media (min-width: 1400px) and (max-width: 1700px) {
   .sticky-header-section .logo-wrap:before {
